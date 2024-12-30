@@ -1,5 +1,6 @@
 {
-  "name": "portifolio",
+  "name": "portifolio-blog",
+  "description": "Esse é apenas a parte do blog do meu portifolio, será subdomio do portifolio, será organizado assim.",
   "version": "0.1.0",
   "private": true,
   "author": "ray-dev",
